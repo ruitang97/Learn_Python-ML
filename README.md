@@ -1,5 +1,5 @@
 # Learn Python+ML
-记录自学Python进度
+从0开始学习图神经的前置内容,预先知道知道python和基本的机器学习模型
 ### Goal:掌握 0.python基础概念 1.numpy+pandas数据操作 2.机器学习相关算法原理,利用sklearn库实现机器学习相关案例
 
 ####  0.python基础概念
