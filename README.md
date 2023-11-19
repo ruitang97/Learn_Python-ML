@@ -1,6 +1,6 @@
 # Learn Python+ML
 ## python基础+基础的机器学习模型,也是要学会图神经的前置知识
-### Goal:掌握 0.python基础概念 1.numpy+pandas数据操作 2.机器学习相关算法原理,利用sklearn库实现机器学习相关案例
+### Goal:掌握 1.python基础 2.numpy+pandas数据操作 3.机器学习相关算法原理,利用sklearn库实现机器学习相关案例
 
 ####  0.python基础概念
 
